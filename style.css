@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Consolas, monospace;
+    background-color: #0d1117;
+    color: #00ff9c;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    background: black;
+    border-bottom: 1px solid #00ff9c;
+}
+
+nav {
+    text-align: center;
+    padding: 10px;
+    background: #111;
+}
+
+nav a {
+    color: #00ff9c;
+    margin: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: white;
+}
+
+section {
+    padding: 20px;
+}
+
+.card {
+    background: #161b22;
+    padding: 15px;
+    margin: 15px 0;
+    border: 1px solid #00ff9c;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    border-top: 1px solid #00ff9c;
+}
